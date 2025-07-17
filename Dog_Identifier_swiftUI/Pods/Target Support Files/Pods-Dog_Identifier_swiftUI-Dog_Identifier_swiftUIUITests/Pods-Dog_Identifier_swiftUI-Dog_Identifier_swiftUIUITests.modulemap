@@ -1,0 +1,6 @@
+framework module Pods_Dog_Identifier_swiftUI_Dog_Identifier_swiftUIUITests {
+  umbrella header "Pods-Dog_Identifier_swiftUI-Dog_Identifier_swiftUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

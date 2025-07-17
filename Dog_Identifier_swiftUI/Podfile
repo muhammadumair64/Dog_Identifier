@@ -1,0 +1,40 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Dog_Identifier_swiftUI' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'GoogleMLKit/ObjectDetection'
+  pod 'GoogleMLKit/ImageLabeling'
+  pod 'lottie-ios'
+  pod 'Mantis'
+  
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'GoogleSignIn'
+  
+  pod 'Firebase/Messaging'
+  
+  pod 'CocoaLumberjack/Swift'
+  pod 'SDWebImage', '~> 5.0'
+  pod 'SDWebImageWebPCoder'  # Enables .webp support
+  pod 'SDWebImageSwiftUI'
+
+  pod 'Google-Mobile-Ads-SDK'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+  
+  pod 'SwiftyStoreKit'
+  
+  # Pods for Dog_Identifier_swiftUI
+
+  target 'Dog_Identifier_swiftUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Dog_Identifier_swiftUIUITests' do
+    # Pods for testing
+  end
+
+end

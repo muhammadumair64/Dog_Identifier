@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Dog_Identifier_swiftUI_Dog_Identifier_swiftUIUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Dog_Identifier_swiftUI_Dog_Identifier_swiftUIUITests
+@end

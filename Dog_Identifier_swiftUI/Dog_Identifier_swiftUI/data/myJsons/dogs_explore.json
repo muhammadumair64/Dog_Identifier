@@ -1,0 +1,1266 @@
+[
+  {
+    "id": 12573,
+    "breedName": "Labrador Retriever",
+    "breedLabel": null,
+    "otherNames": "Labrador, Lab",
+    "popularity": null,
+    "origin": "Canada United States",
+    "breedGroup": "Sporting (AKC:1917) Gun Dog (UKC)",
+    "size": "Medium",
+    "type": "Purebred",
+    "lifeSpan": "10-12 years",
+    "temperament": "Affectionate Alert Cheerful Energetic Friendly Gentle Intelligent Loving Loyal Out-Going Playful Responsive Social",
+    "height": "Male: 22-24 inches (56-61cm) Female: 21-23 inches (53-58 cm)",
+    "weight": "Male: 60-75 pounds (27-34kg) Female: 55-70 pounds (25-32 kg)",
+    "colors": "Black Chocolate Yellow",
+    "litterSize": "5-10 puppies",
+    "puppyPrice": "Average $1000 - $2000 USD",
+    "puppyNames": [
+      {
+        "id": 12591,
+        "rank": "01",
+        "maleName": "Bailey",
+        "femaleName": "Bella",
+        "breedId": 12573
+      },
+      {
+        "id": 12592,
+        "rank": "02",
+        "maleName": "Riley",
+        "femaleName": "Lucy",
+        "breedId": 12573
+      },
+      {
+        "id": 12593,
+        "rank": "03",
+        "maleName": "Lucky",
+        "femaleName": "Maggie",
+        "breedId": 12573
+      },
+      {
+        "id": 12594,
+        "rank": "04",
+        "maleName": "Jake",
+        "femaleName": "Chloe",
+        "breedId": 12573
+      },
+      {
+        "id": 12595,
+        "rank": "05",
+        "maleName": "Toby",
+        "femaleName": "Bailey",
+        "breedId": 12573
+      },
+      {
+        "id": 12596,
+        "rank": "06",
+        "maleName": "Oscar",
+        "femaleName": "Lola",
+        "breedId": 12573
+      },
+      {
+        "id": 12597,
+        "rank": "07",
+        "maleName": "Buster",
+        "femaleName": "Coco",
+        "breedId": 12573
+      },
+      {
+        "id": 12598,
+        "rank": "08",
+        "maleName": "Louie",
+        "femaleName": "Missy",
+        "breedId": 12573
+      },
+      {
+        "id": 12599,
+        "rank": "09",
+        "maleName": "Harley",
+        "femaleName": "Abbie",
+        "breedId": 12573
+      },
+      {
+        "id": 12600,
+        "rank": "10",
+        "maleName": "Sammy",
+        "femaleName": "Stella",
+        "breedId": 12573
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 12589,
+        "title": "Overview",
+        "detail": "The Labrador Retriever is a medium-sized, short-coupled, powerfully-built dog with a short, dense, water-resistant coat; small, drop ears; and a short, thick otter-like tail carried level with the back or with a slight upward curve. The length of body is equal to or only slightly longer than the height at the withers, and the distance from the elbows to the ground is equal to one-half the height at the withers. Balance, outline, intelligence, temperament and movement are of overriding importance. The Labrador Retriever is a breed of moderation, thoroughly sound, and willing and able to do its work. The Labrador Retriever is a dog without exaggeration, so light, weedy dogs; long, low-stationed dogs; and cloddy, lumbering dogs are to be equally penalized. The Labrador Retriever should be evaluated as a working gun dog, and exaggerations or faults should be penalized in proportion to how much they interfere with the dog’s ability to work.\nThe Labrador Retriever is an enthusiastic hunter with a good nose and a soft mouth. They excel in all performance activities. Another essential characteristic of the Labrador Retriever is the short, dense, double coat that protects the dog when retrieving from water. The short, “otter” tail is another distinctive feature of this breed. Labrador Retrievers are noted for their excellent temperaments. This breed is friendly, outgoing and eager to please. They are extremely intelligent and easily trained to perform a variety of complex tasks.\n",
+        "breedId": 12573
+      },
+      {
+        "id": 12590,
+        "title": "History",
+        "detail": "The ancestor of the Labrador Retriever was the St. John’s Retriever, a smaller version of the Newfoundland. These dogs were brought to England, probably on fishing boats. Gamekeepers crossed these Canadian imports with various breeds of gun dogs, always striving to improve the breed’s hunting and retrieving instincts. By the middle of the 19th century, the Labrador’s characteristic water-resistant coat and otter tail were already apparent. By the late 1880s, the breed was sufficiently distinctive that “Labrador Retriever” became the generally accepted name of the breed. Originally black in color, the first recorded yellow Labrador appeared in a litter born in 1899. Chocolates were also recorded at about the same time, but never achieved the same level of popularity as the blacks and yellows. Originally bred to retrieve from water, the modern Labrador Retriever has proven to be one of the most versatile breeds, excelling in hunt tests and field trials, in obedience and agility events, and also as service dogs.\n",
+        "breedId": 12573
+      }
+    ],
+    "characteristics": []
+  },
+  {
+    "id": 11145,
+    "breedName": "German Shepherd",
+    "breedLabel": null,
+    "otherNames": "Alsatian (UK), Alsatian wolf dog (UK), Berger Allemand, Deutscher Schäferhund, Schäferhund",
+    "popularity": null,
+    "origin": "Germany",
+    "breedGroup": "Herding (AKC:1908, UKC)",
+    "size": "Medium to Large",
+    "type": "Purebred",
+    "lifeSpan": "10-13 years",
+    "temperament": "Alert Confident Courageous Curious Intelligent Loyal Obedient Watchful",
+    "height": "Male: 24-26 inches (60-65 cm) Female: 22-24 inches (55-60 cm)",
+    "weight": "Male: 66-88 pounds (30-40 kg) Female: 49-71 pounds (22-32 kg)",
+    "colors": "Black Black and Tan Black & Silver Black & Red",
+    "litterSize": "6-10 puppies",
+    "puppyPrice": "Average $800 - $2000 USD",
+    "puppyNames": [
+      {
+        "id": 11163,
+        "rank": "01",
+        "maleName": "Max",
+        "femaleName": "Bella",
+        "breedId": 11145
+      },
+      {
+        "id": 11164,
+        "rank": "02",
+        "maleName": "Charlie",
+        "femaleName": "Molly",
+        "breedId": 11145
+      },
+      {
+        "id": 11165,
+        "rank": "03",
+        "maleName": "Rocky",
+        "femaleName": "Lola",
+        "breedId": 11145
+      },
+      {
+        "id": 11166,
+        "rank": "04",
+        "maleName": "Jack",
+        "femaleName": "Sadie",
+        "breedId": 11145
+      },
+      {
+        "id": 11167,
+        "rank": "05",
+        "maleName": "Toby",
+        "femaleName": "Bailey",
+        "breedId": 11145
+      },
+      {
+        "id": 11168,
+        "rank": "06",
+        "maleName": "Cody",
+        "femaleName": "Emma",
+        "breedId": 11145
+      },
+      {
+        "id": 11169,
+        "rank": "07",
+        "maleName": "Buster",
+        "femaleName": "Gracie",
+        "breedId": 11145
+      },
+      {
+        "id": 11170,
+        "rank": "08",
+        "maleName": "Oliver",
+        "femaleName": "Lulu",
+        "breedId": 11145
+      },
+      {
+        "id": 11171,
+        "rank": "09",
+        "maleName": "Harley",
+        "femaleName": "Coco",
+        "breedId": 11145
+      },
+      {
+        "id": 11172,
+        "rank": "10",
+        "maleName": "Tucker",
+        "femaleName": "Annie",
+        "breedId": 11145
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 11161,
+        "title": "Overview",
+        "detail": "The German Shepherds are medium to large-sized dogs, well-balanced, muscular dog, slightly longer than tall, with a medium length coat, erect ears, and a low-set natural tail that normally reaches to the hock and is carried in a slight curve like a saber. The outline of the German Shepherd Dog is made up of smooth curves rather than angles. The head is in proportion to the size of the body, strong without appearing coarse or fine. Gender differences are readily apparent. The German Shepherd Dog should be evaluated as an all-around working dog, and exaggerations or faults should be penalized in proportion to how much they interfere with the dog’s ability to work.\nThe German Shepherd Dog is confident and fearless, willing to be approached, yet a certain level of aloofness towards strangers is acceptable. When working, the German Shepherd is alert and eager, adapting well to new tasks. Lack of confidence is a serious defect in the character of a German Shepherd. The structure of this breed was designed for efficient locomotion, particularly at the trot, so poor movement is another serious fault.\n",
+        "breedId": 11145
+      },
+      {
+        "id": 11162,
+        "title": "History",
+        "detail": "The German Shepherd Dog is a relatively young breed, developed almost single-handedly in the first half of the twentieth century by a German cavalry officer, Max von Stephanitz, president of the Verein far Deutsche Schaferhunde S.V. Using a variety of German sheepdogs as his foundation stock, von Stephanitz developed a distinctive breed in a very short period of time, due in large part to the authoritarian practices of the German dog fancy at that time. Von Stephanitz emphasized utility and intelligence in his breeding program, enabling the German Shepherd Dog to switch easily from herding duties to other fields of work, particularly military and police work. The breed was just gaining notice in the United States when World War I broke out. All things German were shunned and popularity slumped. After the war, however, movie star Rin-Tin-Tin stimulated interest in the breed again. The striking good looks of this breed, combined with its remarkable intelligence and loyalty, have made it a favorite working and companion dog.\n",
+        "breedId": 11145
+      }
+    ],
+    "characteristics": []
+  },
+  {
+    "id": 14309,
+    "breedName": "Pomeranian",
+    "breedLabel": null,
+    "otherNames": "Pom, Pom Pom, Deutsche Spitze, Zwergspitz, Spitz Nain, Spitz Enano, Zwers",
+    "popularity": null,
+    "origin": "Germany Poland",
+    "breedGroup": "Toy (AKC:1888)Companion Breeds (UKC)",
+    "size": "Small",
+    "type": "Purebred",
+    "lifeSpan": "12-16 years",
+    "temperament": "ActiveExtrovertedFriendlyIntelligentLivelyPlayfulSociable",
+    "height": "7-12 inches (18-30 cm)",
+    "weight": "3-7 pounds (1-3 kg)",
+    "colors": "BlackBlack & TanBlueBrownGrayOrangeRedWhite",
+    "litterSize": "2-5 puppies",
+    "puppyPrice": "Average $600 - $800 USD",
+    "puppyNames": [
+      {
+        "id": 14327,
+        "rank": "01",
+        "maleName": "Cooper",
+        "femaleName": "Daisy",
+        "breedId": 14309
+      },
+      {
+        "id": 14328,
+        "rank": "02",
+        "maleName": "Duke",
+        "femaleName": "Sadie",
+        "breedId": 14309
+      },
+      {
+        "id": 14329,
+        "rank": "03",
+        "maleName": "Toby",
+        "femaleName": "Chloe",
+        "breedId": 14309
+      },
+      {
+        "id": 14330,
+        "rank": "04",
+        "maleName": "Jack",
+        "femaleName": "Layla",
+        "breedId": 14309
+      },
+      {
+        "id": 14331,
+        "rank": "05",
+        "maleName": "Tucker",
+        "femaleName": "Zoey",
+        "breedId": 14309
+      },
+      {
+        "id": 14332,
+        "rank": "06",
+        "maleName": "Dexter",
+        "femaleName": "Gracie",
+        "breedId": 14309
+      },
+      {
+        "id": 14333,
+        "rank": "07",
+        "maleName": "Oliver",
+        "femaleName": "Sasha",
+        "breedId": 14309
+      },
+      {
+        "id": 14334,
+        "rank": "08",
+        "maleName": "Winston",
+        "femaleName": "Abbie",
+        "breedId": 14309
+      },
+      {
+        "id": 14335,
+        "rank": "09",
+        "maleName": "Marley",
+        "femaleName": "Molly",
+        "breedId": 14309
+      },
+      {
+        "id": 14336,
+        "rank": "10",
+        "maleName": "Zeus",
+        "femaleName": "Callie",
+        "breedId": 14309
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 14325,
+        "title": "Overview",
+        "detail": "The Pomeranian is a small, square-proportioned, miniature spitz with a cobby, rounded body. It shares the spitz characteristics of small ears, double coat and curled tail. It has an alert, foxlike expression. Its gait is smooth and free with good reach and drive. The soft thick undercoat combined with the longer harsh outer coat, standing off from the body, combine to give the dog a unique puffy appearance. This look is further accentuated by the thick ruff and a head carriage that is naturally up-gazing.\nBouncy, bold and busy, the Pomeranian makes the most of every day. It is curious, playful, self-confident (even cocky) and attentive, ever ready for a game or adventure. It is reserved toward strangers. Some can be aggressive toward other dogs. Some bark a lot.\n",
+        "breedId": 14309
+      },
+      {
+        "id": 14326,
+        "title": "History",
+        "detail": "",
+        "breedId": 14309
+      }
+    ],
+    "characteristics": [
+      {
+        "id": 14310,
+        "breedId": 14309,
+        "charactisitcName": "Adaptability",
+        "rating": "5 stars",
+        "description": ""
+      },
+      {
+        "id": 14311,
+        "breedId": 14309,
+        "charactisitcName": "Apartment Friendly",
+        "rating": "5 stars",
+        "description": "The Pomeranian is good for apartment living. These dogs are very active indoors and will do okay without a yard. Be careful they do not overheat in hot weather."
+      },
+      {
+        "id": 14312,
+        "breedId": 14309,
+        "charactisitcName": "Barking Tendencies",
+        "rating": "4 stars",
+        "description": "Frequent"
+      },
+      {
+        "id": 14313,
+        "breedId": 14309,
+        "charactisitcName": "Cat Friendly",
+        "rating": "5 stars",
+        "description": ""
+      },
+      {
+        "id": 14314,
+        "breedId": 14309,
+        "charactisitcName": "Child Friendly",
+        "rating": "2 stars",
+        "description": "Not Good with Kids: In isolation, this dog breed might not be the best option for kids. However, to mitigate the risks, have the puppy grow up with kids and provide it with plenty of pleasant and relaxed experiences with them. This breed is also friendly toward other pets and very friendly toward strangers."
+      },
+      {
+        "id": 14315,
+        "breedId": 14309,
+        "charactisitcName": "Dog Friendly",
+        "rating": "3 stars",
+        "description": ""
+      },
+      {
+        "id": 14316,
+        "breedId": 14309,
+        "charactisitcName": "Exercise Needs",
+        "rating": "2 stars",
+        "description": "Poms need a daily walk. Play will take care of a lot of their exercise needs, however, as with all breeds, play will not fulfill their primal instinct to walk. Dogs that do not get to go on daily walks are more likely to display behavior problems. They will also enjoy a good romp in a safe, open area off lead, such as a large, fenced-in yard."
+      },
+      {
+        "id": 14317,
+        "breedId": 14309,
+        "charactisitcName": "Grooming",
+        "rating": "3 stars",
+        "description": "Moderate Maintenance: Grooming should be performed regularly to keep its fur in good shape. Occasional trimming or stripping needed."
+      },
+      {
+        "id": 14318,
+        "breedId": 14309,
+        "charactisitcName": "Health Issues",
+        "rating": "3 stars",
+        "description": "Hypoallergenic: No"
+      },
+      {
+        "id": 14319,
+        "breedId": 14309,
+        "charactisitcName": "Intelligence",
+        "rating": "5 stars",
+        "description": "Ranking: #23. (See All Rankings)"
+      },
+      {
+        "id": 14320,
+        "breedId": 14309,
+        "charactisitcName": "Playfulness",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 14321,
+        "breedId": 14309,
+        "charactisitcName": "Shedding Level",
+        "rating": "3 stars",
+        "description": "Moderate Shedding: Expect this dog to shed regularly. Be prepared to vacuum often. Brushing will reduce shedding as well as make the coat softer and cleaner."
+      },
+      {
+        "id": 14322,
+        "breedId": 14309,
+        "charactisitcName": "Stranger Friendly",
+        "rating": "3 stars",
+        "description": ""
+      },
+      {
+        "id": 14323,
+        "breedId": 14309,
+        "charactisitcName": "Trainability",
+        "rating": "3 stars",
+        "description": "Moderately Easy Training: The intelligence of the Pomeranian makes training fairly easy. Pomeranians must be trained when young not to bark excessively. Pomeranians should also be trained not to linger at their owner’s feet, for risk of being stepped on and injured."
+      },
+      {
+        "id": 14324,
+        "breedId": 14309,
+        "charactisitcName": "Watchdog Ability",
+        "rating": "3 stars",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 15373,
+    "breedName": "Siberian Husky",
+    "breedLabel": null,
+    "otherNames": "Chukcha, Chuksha, Husky, Icee, Sibe",
+    "popularity": null,
+    "origin": "Russia",
+    "breedGroup": "Working (AKC:1930) Northern Breeds (UKC)",
+    "size": "Medium",
+    "type": "Purebred",
+    "lifeSpan": "12-14 years",
+    "temperament": "Alert Friendly Gentle Intelligent Outgoing",
+    "height": "Male: 21–24 inches (53–61 cm) Female: 20–22 inches (51–56 cm)",
+    "weight": "Male: 45–60 pounds (20–27 kg) Female: 35–50 pounds (16–23 kg)",
+    "colors": "Agouti & White Black & White Gray & White Red & White Sable & White White",
+    "litterSize": "4-8 puppies",
+    "puppyPrice": "Average $700 - $1200 USD",
+    "puppyNames": [
+      {
+        "id": 15391,
+        "rank": "01",
+        "maleName": "Toby",
+        "femaleName": "Chloe",
+        "breedId": 15373
+      },
+      {
+        "id": 15392,
+        "rank": "02",
+        "maleName": "Cooper",
+        "femaleName": "Daisy",
+        "breedId": 15373
+      },
+      {
+        "id": 15393,
+        "rank": "03",
+        "maleName": "Bear",
+        "femaleName": "Luna",
+        "breedId": 15373
+      },
+      {
+        "id": 15394,
+        "rank": "04",
+        "maleName": "Tucker",
+        "femaleName": "Molly",
+        "breedId": 15373
+      },
+      {
+        "id": 15395,
+        "rank": "05",
+        "maleName": "Buddy",
+        "femaleName": "Zoey",
+        "breedId": 15373
+      },
+      {
+        "id": 15396,
+        "rank": "06",
+        "maleName": "Teddy",
+        "femaleName": "Coco",
+        "breedId": 15373
+      },
+      {
+        "id": 15397,
+        "rank": "07",
+        "maleName": "Riley",
+        "femaleName": "Penny",
+        "breedId": 15373
+      },
+      {
+        "id": 15398,
+        "rank": "08",
+        "maleName": "Milo",
+        "femaleName": "Gracie",
+        "breedId": 15373
+      },
+      {
+        "id": 15399,
+        "rank": "09",
+        "maleName": "Buster",
+        "femaleName": "Katie",
+        "breedId": 15373
+      },
+      {
+        "id": 15400,
+        "rank": "10",
+        "maleName": "Leo",
+        "femaleName": "Sasha",
+        "breedId": 15373
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 15389,
+        "title": "Overview",
+        "detail": "The Siberian husky combines power, speed and endurance, enabling it to carry a light load at moderate speed over a great distance. It is moderately compact, slightly longer than it is tall, and of definite Northern heritage. It is quick and light on its feet, with a smooth and effortless stride exhibiting both good reach and drive. It has a double coat of medium length, with a soft, dense undercoat and a straight, somewhat flat-lying outer coat. Its expression is keen but friendly, interested and even mischievous.\nFun-loving, adventurous, alert, independent, clever, stubborn, mischievous and obstinate — all describe the Siberian husky. This breed loves to run and will roam if given the chance. It may be aggressive toward strange dogs, but it is generally good with other household dogs. In fact, it is a very social dog that must have human or canine companionship. It may chase strange cats or livestock. Some howl, dig and chew.\n",
+        "breedId": 15373
+      },
+      {
+        "id": 15390,
+        "title": "History",
+        "detail": "The Siberian Husky (also known as the ‘Chukcha’, ‘Keshia’, or ‘Arctic Husky’) originated as a sled dog for the Chukchi tribe of Eastern Siberia (in northern Russia) several thousand years ago. It was imported to Alaska in the early 20th century during the Alaskan gold rush. The Siberian Husky attracted attention when it completely dominated native breeds in the 400 mile ‘All-Alaska Sweepstakes’ race from Nome to Candle in 1910, the second year in which it competed. It gained further prominence in 1925 when a gold miner named Leonhard Seppala used a now-famous team of Siberian Huskies to make an urgent delivery of diphtheria serum to Nome, saving thousands of lives. This delivery became known as the ‘Great Race of Mercy’ and attracted much attention to the Siberian Husky. A statue honoring Seppala’s team stands today in Central Park. In 1930, Russia allowed the last group of Siberian Huskies to be exported from Siberia; the breed was recognized by the American Kennel Club that same year. Most Siberian Huskies today descend from the 1930 exports and Leonhard Seppala’s team. Today the Siberian Husky is one of the most popular northern breeds, serving as a pet, sled racing dog, and show dog.\n",
+        "breedId": 15373
+      }
+    ],
+    "characteristics": []
+  },
+  {
+    "id": 16633,
+    "breedName": "Toy Poodle",
+    "breedLabel": null,
+    "otherNames": "Caniche, Barbone, Chien Canne, Teacup Poodle, French Poodle, Pudle, Teddy Poodle",
+    "popularity": null,
+    "origin": "France Germany",
+    "breedGroup": "Toy (AKC)Companion Dogs (UKC)",
+    "size": "Small",
+    "type": "Purebred",
+    "lifeSpan": "14-16 years",
+    "temperament": "ActiveAlertFaithfulInstinctualIntelligentTrainable",
+    "height": "Up to 10 inches (25.4 cm)",
+    "weight": "Male: 6-9 pounds (3-4 kg)",
+    "colors": "ApricotFawnBlackBlueBrownCreamGrayRedSilverSilver BeigeWhite",
+    "litterSize": "2-4 puppies",
+    "puppyPrice": "Average $1000 - $1500 USD",
+    "puppyNames": [
+      {
+        "id": 16651,
+        "rank": "01",
+        "maleName": "Max",
+        "femaleName": "Bella",
+        "breedId": 16633
+      },
+      {
+        "id": 16652,
+        "rank": "02",
+        "maleName": "Toby",
+        "femaleName": "Lola",
+        "breedId": 16633
+      },
+      {
+        "id": 16653,
+        "rank": "03",
+        "maleName": "Louie",
+        "femaleName": "Emma",
+        "breedId": 16633
+      },
+      {
+        "id": 16654,
+        "rank": "04",
+        "maleName": "Milo",
+        "femaleName": "Molly",
+        "breedId": 16633
+      },
+      {
+        "id": 16655,
+        "rank": "05",
+        "maleName": "Buddy",
+        "femaleName": "Bailey",
+        "breedId": 16633
+      },
+      {
+        "id": 16656,
+        "rank": "06",
+        "maleName": "Zeus",
+        "femaleName": "Sadie",
+        "breedId": 16633
+      },
+      {
+        "id": 16657,
+        "rank": "07",
+        "maleName": "Cooper",
+        "femaleName": "Coco",
+        "breedId": 16633
+      },
+      {
+        "id": 16658,
+        "rank": "08",
+        "maleName": "Oscar",
+        "femaleName": "Ruby",
+        "breedId": 16633
+      },
+      {
+        "id": 16659,
+        "rank": "09",
+        "maleName": "Jack",
+        "femaleName": "Ellie",
+        "breedId": 16633
+      },
+      {
+        "id": 16660,
+        "rank": "10",
+        "maleName": "Oliver",
+        "femaleName": "Lilly",
+        "breedId": 16633
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 16649,
+        "title": "Overview",
+        "detail": "The Toy Poodles have a shoulder height of up to 25 cm (10 in) and weigh 3-4 kg (6-9 lbs). Poodles are very elegant in appearance. They have a long, narrow muzzle, slight stop (point at which the forehead meets the muzzle), dark eyes, and wide ears. Toy Poodles have flat backs, straight, docked tails and small, oval feet. Their length is approximately the same as their height.\nThe Toy Poodle is sensitive, intelligent, lively, playful, proud, and elegant. It bonds closely with family and makes a great companion. Toy Poodles are very smart, obedient, and graceful, which makes them one of the most popular pets in the world. The Toy Poodle is bouncy, alert, and usually eager to play. Toy Poodles are more energetic than Standard Poodles, and more likely to bark.\n",
+        "breedId": 16633
+      },
+      {
+        "id": 16650,
+        "title": "History",
+        "detail": "",
+        "breedId": 16633
+      }
+    ],
+    "characteristics": [
+      {
+        "id": 16634,
+        "breedId": 16633,
+        "charactisitcName": "Adaptability",
+        "rating": "5 stars",
+        "description": ""
+      },
+      {
+        "id": 16635,
+        "breedId": 16633,
+        "charactisitcName": "Apartment Friendly",
+        "rating": "5 stars",
+        "description": "Toy Poodles are good for city life as well as country living. Given enough exercise, they are not active indoors. They will lie right next to you and are more sedate when indoors, although they love to play outdoors and are a highly intelligent breed, so they do like lots of thoughtful activities to stimulate their mentality. They will do okay without a yard."
+      },
+      {
+        "id": 16636,
+        "breedId": 16633,
+        "charactisitcName": "Barking Tendencies",
+        "rating": "4 stars",
+        "description": "Frequent"
+      },
+      {
+        "id": 16637,
+        "breedId": 16633,
+        "charactisitcName": "Cat Friendly",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 16638,
+        "breedId": 16633,
+        "charactisitcName": "Child Friendly",
+        "rating": "5 stars",
+        "description": "Good with Kids: This is a suitable breed for kids and is known to be playful, energetic, and affectionate around them."
+      },
+      {
+        "id": 16639,
+        "breedId": 16633,
+        "charactisitcName": "Dog Friendly",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 16640,
+        "breedId": 16633,
+        "charactisitcName": "Exercise Needs",
+        "rating": "4 stars",
+        "description": "These are active little dogs that need a daily walk. Play will take care of a lot of their exercise needs, however, as with all breeds, play will not fulfill their primal instinct to walk. Dogs that do not get to go on daily walks are more likely to display behavior problems. They will also enjoy a good romp in a safe, open area off lead, such as a large, fenced-in yard."
+      },
+      {
+        "id": 16641,
+        "breedId": 16633,
+        "charactisitcName": "Grooming",
+        "rating": "5 stars",
+        "description": "High Maintenance: Regular weekly grooming with a brush and the occasional bath will keep them clean and looking their best. Grooming can be a wonderful bonding experience for you and your pet. Their strong fast-growing nails should be trimmed regularly with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Their ears should be checked regularly to avoid a buildup of wax and debris which can result in an infection. Teeth should be brushed regularly."
+      },
+      {
+        "id": 16642,
+        "breedId": 16633,
+        "charactisitcName": "Health Issues",
+        "rating": "3 stars",
+        "description": "Miniature and Toy Poodles in UK surveys had median lifespans of 14 to 14.5 years."
+      },
+      {
+        "id": 16643,
+        "breedId": 16633,
+        "charactisitcName": "Intelligence",
+        "rating": "5 stars",
+        "description": "Ranking: #2. (See All Rankings)"
+      },
+      {
+        "id": 16644,
+        "breedId": 16633,
+        "charactisitcName": "Playfulness",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 16645,
+        "breedId": 16633,
+        "charactisitcName": "Shedding Level",
+        "rating": "1 stars",
+        "description": "Minimal Shedding: This dog will shed a negligible amount. Recommended for owners who do not want to deal with dog hair in their cars and homes."
+      },
+      {
+        "id": 16646,
+        "breedId": 16633,
+        "charactisitcName": "Stranger Friendly",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 16647,
+        "breedId": 16633,
+        "charactisitcName": "Trainability",
+        "rating": "5 stars",
+        "description": "Easy Training: The Toy Poodle is highly intelligent, making training a fairly simple process. They quickly understand what is expected of them and can learn a wide variety of tricks and games. Poodles are likely to enjoy the training process. Any effort put into training the Poodle will reap large rewards."
+      },
+      {
+        "id": 16648,
+        "breedId": 16633,
+        "charactisitcName": "Watchdog Ability",
+        "rating": "4 stars",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 7652,
+    "breedName": "Bulldog",
+    "breedLabel": null,
+    "otherNames": "English Bulldog, British Bulldog",
+    "popularity": null,
+    "origin": "United Kingdom",
+    "breedGroup": "Non Sporting (AKC:1886) Companion (UKC)",
+    "size": "Medium",
+    "type": "Purebred",
+    "lifeSpan": "8-10 years",
+    "temperament": "Aggressive Courageous Friendly Loving Social Sweet",
+    "height": "12-16 inches (31-40 cm) There is no prescribed height, but shorter Bulldogs are more prized when being shown",
+    "weight": "Male: 53-55 pounds (24-25 kg) Female: 49-51 pounds (22-23 kg)",
+    "colors": "Brindle & White Fawn Fawn & White Fawn Brindle & White Gray Brindle Red Red & White Red Brindle Red Brindle & White White",
+    "litterSize": "4-5 puppies",
+    "puppyPrice": "Average $1200 - $2000 USD",
+    "puppyNames": [
+      {
+        "id": 7670,
+        "rank": "01",
+        "maleName": "Max",
+        "femaleName": "Bella",
+        "breedId": 7652
+      },
+      {
+        "id": 7671,
+        "rank": "02",
+        "maleName": "Riley",
+        "femaleName": "Daisy",
+        "breedId": 7652
+      },
+      {
+        "id": 7672,
+        "rank": "03",
+        "maleName": "Charlie",
+        "femaleName": "Maggie",
+        "breedId": 7652
+      },
+      {
+        "id": 7673,
+        "rank": "04",
+        "maleName": "Murphy",
+        "femaleName": "Molly",
+        "breedId": 7652
+      },
+      {
+        "id": 7674,
+        "rank": "05",
+        "maleName": "Buddy",
+        "femaleName": "Bailey",
+        "breedId": 7652
+      },
+      {
+        "id": 7675,
+        "rank": "06",
+        "maleName": "Oscar",
+        "femaleName": "Sadie",
+        "breedId": 7652
+      },
+      {
+        "id": 7676,
+        "rank": "07",
+        "maleName": "Cooper",
+        "femaleName": "Gracie",
+        "breedId": 7652
+      },
+      {
+        "id": 7677,
+        "rank": "08",
+        "maleName": "Rusty",
+        "femaleName": "Sophie",
+        "breedId": 7652
+      },
+      {
+        "id": 7678,
+        "rank": "09",
+        "maleName": "Jack",
+        "femaleName": "Katie",
+        "breedId": 7652
+      },
+      {
+        "id": 7679,
+        "rank": "10",
+        "maleName": "Shadow",
+        "femaleName": "Roxy",
+        "breedId": 7652
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 7668,
+        "title": "Overview",
+        "detail": "The English Bulldog is a wide, medium-sized, compact dog with short legs. The body and head are massive with extra skin on both the skull and forehead falling in folds. The cheeks extend to the sides of the eyes. The muzzle is wide, short and pug with a broad, deep stop. The black nose is broad with large nostrils. The dark eyes are deep set. The rose ears are small, thin and set high on the head. The jaws are massive, very broad, and square with hanging upper lips. The teeth should have an under bite. The tail is either straight or screwed and carried low. The short, flat coat is straight, smooth and glossy. Coat colors include red brindle and other shades of brindle, solid white, solid red, fawn, fallow, piebald, pale yellow or washed-out red or white or a combination of these colors.\nDespite its \"sourmug,\" the bulldog is jovial, comical and amiable, among the most docile and mellow of dogs. It is willing to please, although it retains a stubborn streak. It is very good with children. Most are moderately friendly toward strangers. Although some can be aggressive with strange dogs, the breed is quite good with other pets.\n",
+        "breedId": 7652
+      },
+      {
+        "id": 7669,
+        "title": "History",
+        "detail": "The English Bulldog (or simply ‘Bulldog’) was bred in England in the 1500’s for bull baiting, a popular gambling ‘sport’ in which one or more dogs were matched up against a chained bull (or bear). These dogs were bred for sheer fighting capacity, and they were famed for latching onto their prey with an iron jaw which they refused to release—they could even suffocate opponents this way. English Bulldogs fell in popularity when bull baiting was outlawed in the 1830’s, but a committed group of devotees kept the breed alive and selected away any trace of ferocity. Easily recognizable by their distinctive and adorable ‘sourmug’, English Bulldogs serve as the mascots of dozens of sports teams, most famously Georgetown University. Other famous English Bulldogs include Handsome Dan, the Yale mascot, and Tyson, the skateboarding Bulldog of internet fame. English Bulldogs are simultaneously a symbol of British tenacity and an immensely popular American pet.\n",
+        "breedId": 7652
+      }
+    ],
+    "characteristics": []
+  },
+  {
+    "id": 7176,
+    "breedName": "American Pit Bull Terrier",
+    "breedLabel": null,
+    "otherNames": "APBT, Pit Bull, Pitty, Pit, Pitbull",
+    "popularity": null,
+    "origin": "United States",
+    "breedGroup": "Terrier",
+    "size": "Medium",
+    "type": "Purebred",
+    "lifeSpan": "10-14 years",
+    "temperament": "AffectionateAggressiveClownishCourageousFriendlyIntelligentLoyalObedientStrong WilledStubborn",
+    "height": "14-24 inches (35-60 cm)",
+    "weight": "22-78 pounds (10-35 kg)",
+    "colors": "BlackBlack and TanBlueBrownGrayRedWhiteYellow",
+    "litterSize": "5-8 puppies",
+    "puppyPrice": "Average $500 - $700 USD",
+    "puppyNames": [
+      {
+        "id": 7194,
+        "rank": "01",
+        "maleName": "Buddy",
+        "femaleName": "Molly",
+        "breedId": 7176
+      },
+      {
+        "id": 7195,
+        "rank": "02",
+        "maleName": "Riley",
+        "femaleName": "Bella",
+        "breedId": 7176
+      },
+      {
+        "id": 7196,
+        "rank": "03",
+        "maleName": "Toby",
+        "femaleName": "Coco",
+        "breedId": 7176
+      },
+      {
+        "id": 7197,
+        "rank": "04",
+        "maleName": "Jack",
+        "femaleName": "Lady",
+        "breedId": 7176
+      },
+      {
+        "id": 7198,
+        "rank": "05",
+        "maleName": "Ollie",
+        "femaleName": "Abbie",
+        "breedId": 7176
+      },
+      {
+        "id": 7199,
+        "rank": "06",
+        "maleName": "Rocco",
+        "femaleName": "Ellie",
+        "breedId": 7176
+      },
+      {
+        "id": 7200,
+        "rank": "07",
+        "maleName": "Oliver",
+        "femaleName": "Zoey",
+        "breedId": 7176
+      },
+      {
+        "id": 7201,
+        "rank": "08",
+        "maleName": "Oscar",
+        "femaleName": "Kona",
+        "breedId": 7176
+      },
+      {
+        "id": 7202,
+        "rank": "09",
+        "maleName": "Moose",
+        "femaleName": "Gracie",
+        "breedId": 7176
+      },
+      {
+        "id": 7203,
+        "rank": "10",
+        "maleName": "Loki",
+        "femaleName": "Marley",
+        "breedId": 7176
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 7192,
+        "title": "",
+        "detail": "The Pit Bull immediately strikes one as being a dog of power, passion and undying willingness. The brick-like head, which is especially broad between the cheeks (to house the powerful jaws), is carried upon a thickly muscled, well-defined neck. The neck runs into a deep, thick, well-sprung chest. The American Pit Bull is a very muscular, stocky, yet agile dog that is extremely strong for his size.The tail tapers to a point. The ears are generally cropped, though this is optional. Docked tails are not accepted by the UKC or the ADBA. The eyes are round. Both the ADBA and the UKC do not accept blue eyes or the coat color merle. The American Pitbull Registry does accept a merle coat. The teeth should form a scissors bite. Its coat is made up of thick, short, shiny hair. All colors are admissible. Shades of brown to red with a matching red/brown nose are referred to as red-nose Pit Bulls. Shades of gray with a matching gray nose are referred to as blue-nose Pit Bulls.\nThe essential characteristics of the American Pit Bull Terrier are strength, confidence, and zest for life. This breed is eager to please and brimming over with enthusiasm. APBTs make excellent family companions and have always been noted for their love of children. Because most APBTs exhibit some level of dog aggression and because of its powerful physique, the APBT requires an owner who will carefully socialize and obedience train the dog. The breed’s natural agility makes it one of the most capable canine climbers so good fencing is a must for this breed. The APBT is not the best choice for a guard dog since they are extremely friendly, even with strangers. Aggressive behavior toward humans is uncharacteristic of the breed and highly undesirable. This breed does very well in performance events because of its high level of intelligence and its willingness to work.\n",
+        "breedId": 7176
+      },
+      {
+        "id": 7193,
+        "title": "",
+        "detail": "",
+        "breedId": 7176
+      }
+    ],
+    "characteristics": [
+      {
+        "id": 7177,
+        "breedId": 7176,
+        "charactisitcName": "Adaptability",
+        "rating": "3 stars",
+        "description": ""
+      },
+      {
+        "id": 7178,
+        "breedId": 7176,
+        "charactisitcName": "Apartment Friendly",
+        "rating": "2 stars",
+        "description": "Pits will do okay in an apartment if they are sufficiently exercised. They are very active indoors and will do alright without a yard provided they get enough exercise. Prefers warm climates."
+      },
+      {
+        "id": 7179,
+        "breedId": 7176,
+        "charactisitcName": "Barking Tendencies",
+        "rating": "3 stars",
+        "description": "Occassional"
+      },
+      {
+        "id": 7180,
+        "breedId": 7176,
+        "charactisitcName": "Cat Friendly",
+        "rating": "1 stars",
+        "description": ""
+      },
+      {
+        "id": 7181,
+        "breedId": 7176,
+        "charactisitcName": "Child Friendly",
+        "rating": "4 stars",
+        "description": "Good with Kids: This is a suitable breed for kids and is known to be playful, energetic, and affectionate around them."
+      },
+      {
+        "id": 7182,
+        "breedId": 7176,
+        "charactisitcName": "Dog Friendly",
+        "rating": "1 stars",
+        "description": ""
+      },
+      {
+        "id": 7183,
+        "breedId": 7176,
+        "charactisitcName": "Exercise Needs",
+        "rating": "3 stars",
+        "description": "American Pit Bull Terriers must have plenty of regular exercise and need to be taken on long daily walks."
+      },
+      {
+        "id": 7184,
+        "breedId": 7176,
+        "charactisitcName": "Grooming",
+        "rating": "1 stars",
+        "description": "Low Maintenance: Infrequent grooming is required to maintain upkeep. No trimming or stripping needed."
+      },
+      {
+        "id": 7185,
+        "breedId": 7176,
+        "charactisitcName": "Health Issues",
+        "rating": "2 stars",
+        "description": "A generally healthy breed, although some are prone to hip dysplasia, hereditary cataracts, allergies to grass and congenital heart disease."
+      },
+      {
+        "id": 7186,
+        "breedId": 7176,
+        "charactisitcName": "Intelligence",
+        "rating": "3 stars",
+        "description": "Ranking: (#). (See All Rankings)"
+      },
+      {
+        "id": 7187,
+        "breedId": 7176,
+        "charactisitcName": "Playfulness",
+        "rating": "4 stars",
+        "description": ""
+      },
+      {
+        "id": 7188,
+        "breedId": 7176,
+        "charactisitcName": "Shedding Level",
+        "rating": "3 stars",
+        "description": "Moderate Shedding: Routine brushing will help. Be prepared to vacuum often!"
+      },
+      {
+        "id": 7189,
+        "breedId": 7176,
+        "charactisitcName": "Stranger Friendly",
+        "rating": "3 stars",
+        "description": ""
+      },
+      {
+        "id": 7190,
+        "breedId": 7176,
+        "charactisitcName": "Trainability",
+        "rating": "3 stars",
+        "description": "Moderately Easy Training: The American Pit Bull Terrier must be taught at an early age not to pull on the leash, as it becomes very strong when fully grown. It can learn a great deal if consistently trained. Intense socialization at an early age is important. American Pit Bull Terriers are obedient and have a very strong desire to please their owner. Training should be patient, respectful, and firm."
+      },
+      {
+        "id": 7191,
+        "breedId": 7176,
+        "charactisitcName": "Watchdog Ability",
+        "rating": "3 stars",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 15121,
+    "breedName": "Rottweiler",
+    "breedLabel": null,
+    "otherNames": "Rottie, Rott",
+    "popularity": null,
+    "origin": "Germany",
+    "breedGroup": "Working (AKC:1931) Guardian Dog (UKC)",
+    "size": "Medium to Large",
+    "type": "Purebred",
+    "lifeSpan": "8-11 years",
+    "temperament": "Alert Courageous Fearless Good-natured Independent Intelligent Loyal Protective",
+    "height": "Male: 24-27 inches (61-69 cm) Female: 22-25 inches (56-63 cm)",
+    "weight": "Male: 95-130 pounds (43-59 kg) Female: 85-115 pounds (38-52 kg)",
+    "colors": "Black & Mahogany Black & Rust Black & Tan",
+    "litterSize": "8-12 puppies",
+    "puppyPrice": "Average $1200 - $2000 USD",
+    "puppyNames": [
+      {
+        "id": 15139,
+        "rank": "01",
+        "maleName": "Max",
+        "femaleName": "Bella",
+        "breedId": 15121
+      },
+      {
+        "id": 15140,
+        "rank": "02",
+        "maleName": "Riley",
+        "femaleName": "Daisy",
+        "breedId": 15121
+      },
+      {
+        "id": 15141,
+        "rank": "03",
+        "maleName": "Gus",
+        "femaleName": "Sasha",
+        "breedId": 15121
+      },
+      {
+        "id": 15142,
+        "rank": "04",
+        "maleName": "Buster",
+        "femaleName": "Molly",
+        "breedId": 15121
+      },
+      {
+        "id": 15143,
+        "rank": "05",
+        "maleName": "Leo",
+        "femaleName": "Emma",
+        "breedId": 15121
+      },
+      {
+        "id": 15144,
+        "rank": "06",
+        "maleName": "Oscar",
+        "femaleName": "Sadie",
+        "breedId": 15121
+      },
+      {
+        "id": 15145,
+        "rank": "07",
+        "maleName": "Cooper",
+        "femaleName": "Gracie",
+        "breedId": 15121
+      },
+      {
+        "id": 15146,
+        "rank": "08",
+        "maleName": "Rusty",
+        "femaleName": "Ellie",
+        "breedId": 15121
+      },
+      {
+        "id": 15147,
+        "rank": "09",
+        "maleName": "Jack",
+        "femaleName": "Katie",
+        "breedId": 15121
+      },
+      {
+        "id": 15148,
+        "rank": "10",
+        "maleName": "Bandit",
+        "femaleName": "Lulu",
+        "breedId": 15121
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 15137,
+        "title": "Overview",
+        "detail": "The Rottweiler is a medium-large breed, slightly longer than it is tall and robust with a powerful, substantial build. It combines the abilities necessary to drive cattle for long distances as well as serve as a formidable guard dog — jobs that entail great strength, agility and endurance. Its trot is sure and powerful, with strong reach and drive. Its coat is straight, coarse and dense. Its expression reflects the Rottweiler at its best — noble, alert and self-assured.\nConfident, bold, alert and imposing, the Rottweiler is a popular choice for its ability to protect. As befitting its self-assured nature, it tends to be headstrong and stubborn and is often domineering. It is reserved, often wary, toward strangers. It may be overly protective if it perceives that its family is being threatened, and it may also attempt to \"herd\" children. This is a powerful breed that needs socialization, consistent training and daily exercise to be the best it can be — a loyal family member and guardian.\n",
+        "breedId": 15121
+      },
+      {
+        "id": 15138,
+        "title": "History",
+        "detail": "The Rottweiler (affectionately called 'Rottie') originates in the Roman Empire, where it was used to herd cattle. The name derives from the small town of Rottweil, Germany. The Rottweiler nearly went extinct in the 1800's, but today it has come back in popularity and is used as a police dog, guard dog, herd dog, and tracker. It is a very strong, courageous, seemingly invulnerable breed. Famous fictional Rottweilers include the puppet Triumph the Insult Comic Dog from The Conan O' Brien Show and the family pet in Ferris Bueller's Day Off.\n",
+        "breedId": 15121
+      }
+    ],
+    "characteristics": []
+  },
+
+  {
+    "id": 15401,
+    "breedName": "Shih Tzu",
+    "breedLabel": null,
+    "otherNames": "Chinese Lion Dog, Chrysanthemum Dog",
+    "popularity": null,
+    "origin": "China",
+    "breedGroup": "Toy (AKC:1969) Companion Dog (UKC)",
+    "size": "Small",
+    "type": "Purebred",
+    "lifeSpan": "10-16 years",
+    "temperament": "Active Courageous Friendly Gentle Happy Intelligent Lively Outgoing Playful",
+    "height": "8-11 inches (20-28 cm)",
+    "weight": "9-16 pounds (4-7 kg)",
+    "colors": "Black Blue Brindle Gold Liver Red Silver",
+    "litterSize": "2-5 puppies",
+    "puppyPrice": "Average $800 - $1200 USD",
+    "puppyNames": [
+      {
+        "id": 15419,
+        "rank": "01",
+        "maleName": "Max",
+        "femaleName": "Bella",
+        "breedId": 15401
+      },
+      {
+        "id": 15420,
+        "rank": "02",
+        "maleName": "Buddy",
+        "femaleName": "Molly",
+        "breedId": 15401
+      },
+      {
+        "id": 15421,
+        "rank": "03",
+        "maleName": "Gus",
+        "femaleName": "Sasha",
+        "breedId": 15401
+      },
+      {
+        "id": 15422,
+        "rank": "04",
+        "maleName": "Rocky",
+        "femaleName": "Maggie",
+        "breedId": 15401
+      },
+      {
+        "id": 15423,
+        "rank": "05",
+        "maleName": "Leo",
+        "femaleName": "Lilly",
+        "breedId": 15401
+      },
+      {
+        "id": 15424,
+        "rank": "06",
+        "maleName": "Oliver",
+        "femaleName": "Sadie",
+        "breedId": 15401
+      },
+      {
+        "id": 15425,
+        "rank": "07",
+        "maleName": "Milo",
+        "femaleName": "Chloe",
+        "breedId": 15401
+      },
+      {
+        "id": 15426,
+        "rank": "08",
+        "maleName": "Rusty",
+        "femaleName": "Penny",
+        "breedId": 15401
+      },
+      {
+        "id": 15427,
+        "rank": "09",
+        "maleName": "Jack",
+        "femaleName": "Luna",
+        "breedId": 15401
+      },
+      {
+        "id": 15428,
+        "rank": "10",
+        "maleName": "Dexter",
+        "femaleName": "Zoey",
+        "breedId": 15401
+      }
+    ],
+    "dogBreedDetailList": [
+      {
+        "id": 15417,
+        "title": "Overview",
+        "detail": "Compact, yet slightly longer than it is tall, the Shih Tzu hides a sturdy body beneath its mantle of luxurious hair. It has a smooth, effortless stride with good reach and drive. Even though its function is that of companion, it should nonetheless be structurally sound. Its expression is warm, sweet and wide-eyed, imparting the impression of trust and friendliness. The long, dense coat is double and fairly straight.\nThe spunky but sweet Shih Tzu is both a gentle lap dog and a vivacious companion. It has an upbeat attitude and loves to play and romp. It is affectionate to its family and good with children. It is surprisingly tough and does have a stubborn streak.\n",
+        "breedId": 15401
+      },
+      {
+        "id": 15418,
+        "title": "History",
+        "detail": "The Shih Tzu, also known as the ‘Chinese Lion Dog’, ‘Chrysanthemum Dog’ (because its face resembles a flower), or ‘Shih Tzu Kou’ (which translates to ‘Lion Dog’, designating its revered status in Buddhism) originates in Tibet as far back as the 1600’s. The Shih Tzu in its current form was primarily developed in China during the reign of Chinese Empress Dowager Cixi in the late 1800’s, likely from crosses of the Pekingese with the Lhasa Apso. The Shih Tzu was a favored pet of royalty, but fell into decline when British troops raided the Forbidden City in 1860. The breed survived, but was generally not distinguished from the Lhasa Apso until 1934, when the smaller, shorter nosed variety was reassigned its original Chinese name, ‘Shih Tzu’. The Shih Tzu was recognized by the American Kennel Club in 1969 and has continued to climb in popularity to this day. Crossbreeds between Shih Tzu and other toy breeds are also increasing in popularity, particularly crosses with the Poodle and Bichon Frise.\n",
+        "breedId": 15401
+      }
+    ],
+    "characteristics": []
+  }
+]
