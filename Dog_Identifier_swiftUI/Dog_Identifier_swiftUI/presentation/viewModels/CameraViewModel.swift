@@ -15,7 +15,7 @@ import CocoaLumberjack
 class CameraViewModel: ObservableObject {
    
 //    AIzaSyAFgJCBsh92JSpQczp4jZM3orgLQtSaYcc   Same Key from Butterfly IOS
-    let model = GenerativeModel(name: "gemini-1.5-flash-8b", apiKey: "AIzaSyAFgJCBsh92JSpQczp4jZM3orgLQtSaYcc")
+    let model = GenerativeModel(name: "gemini-1.5-flash-8b", apiKey: "AIzaSyDvy0gERhUj83LhC6EQZun3UCTno3fCjjY")
     
     // This property will be shared across all views
     @Published var capturedImage: UIImage? = nil
